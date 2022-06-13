@@ -70,7 +70,7 @@ p {
 
 .menu a {
     display: block;
-    background: var(--fundo-2)fff;
+    background: var(--fundo-2);
     padding: 1rem 2rem;
     border-radius: 4px;
     color: var(--texto);
@@ -89,7 +89,7 @@ p {
 }
 
 .introducao {
-    background: var(--fundo-2)fff;
+    background: var(--fundo-2);
     padding: 40px;
     text-align: right;
     position: relative;
@@ -126,7 +126,7 @@ p {
     text-transform: uppercase;
 }
 .botao:hover {
-    background: var( --cor-primaria-escura);
+    background: var(--cor-primaria-escura);
 }
 
 .subtitulo {
@@ -141,7 +141,7 @@ p {
 }
 
 .vantagens {
-    background: var(--fundo-2)fff;
+    background: var(--fundo-2);
     padding: 40px;
 }
 
@@ -158,7 +158,7 @@ p {
 }
 
 .vantagens-item:hover {
-    border-color:var(--cor-primaria);
+    border-color: var(--cor-primaria);
 }
 
 .vantagens-item p {
